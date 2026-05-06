@@ -40,6 +40,11 @@ As i have uploaded dataset
 * Use advanced models like Logistic Regression or SVM
 * Improve dataset quality
 * Deploy using Streamlit or Flask
+  
+## How to run
+1. Download the dataset
+2. Place it in the same folder as the notebook
+3. Run the notebook step-by-step
 
 ##  Author
 
